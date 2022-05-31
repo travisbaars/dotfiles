@@ -1,0 +1,1 @@
+/home/mantix/.bashrc
